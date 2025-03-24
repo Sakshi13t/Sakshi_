@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Fitness Tracker with pose estimation**
+- 🔭 I’m currently working on **Chatbot**
 
-- 🌱 I’m currently learning **Computer vision**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine learning and data science projects**
 
