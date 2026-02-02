@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning enthusiast</h3>
 
 - 🔭 I’m currently working on **GUI Desktop application using pyqt5 for camera management and AI model monitoring in real-time**
 
