@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate Machine Learning enthusiast</h3>
+<h3 align="center">Machine Learning enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Machine learning and data science projects**
 
