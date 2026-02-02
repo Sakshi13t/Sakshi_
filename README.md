@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">Machine Learning enthusiast</h3>
 
-- 👯 I’m looking to collaborate on **Machine learning and data science projects**
+- I’m looking to collaborate on **Machine learning and data science projects**
 
 - 📫 How to reach me **sakshitandon1193@gmail.com**
 
