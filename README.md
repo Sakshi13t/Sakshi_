@@ -71,7 +71,7 @@ class MLEngineer:
             "accuracy": "95%+ in challenging CV environments",
             "latency_optimization": "40-50% reduction on edge devices",
             "automation": "60-70% reduction in manual work",
-            "system_scale": "10,000+ sensor readings/hour"
+            "system_scale": "10,000+ records/hour"
         }
     
     def get_expertise(self):
