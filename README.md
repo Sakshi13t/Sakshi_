@@ -136,7 +136,6 @@ class MLEngineer:
 
 ## 🏆 Achievements
 
-- 🎓 **B.Tech in AI/ML** with **8.02 CGPA** from MITS Gwalior
 - 🚀 Deployed **production ML systems** serving real-time inference
 - ⚡ Optimized edge AI inference achieving **40-50% latency reduction**
 - 📉 Reduced operational costs by **40%** through intelligent automation
