@@ -53,7 +53,6 @@ I'm a **Machine Learning Engineer** specializing in **Computer Vision** and **In
 
 ### Edge AI & Hardware
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ## 💼 Professional Highlights
 
@@ -80,7 +79,7 @@ class MLEngineer:
             "Edge AI Optimization (TensorRT, NVIDIA Jetson)",
             "Predictive Maintenance (Multi-class Classification)",
             "LLM Systems (Text-to-SQL, Guardrails)",
-            "Production ML Pipelines (Flask APIs, Real-time Inference)",
+            "Industrial ML Pipelines (Flask APIs, Real-time Inference)",
             "MLOps (Automated Training, Dataset Preparation)"
         ]
 ```
@@ -147,10 +146,8 @@ class MLEngineer:
 ## 📚 What I'm Learning
 
 - Advanced **MLOps** practices and model monitoring
-- **Kubernetes** for ML model deployment
 - **LLM fine-tuning** and prompt engineering
 - **Edge AI** optimization techniques
-- **Reinforcement Learning** for real-world applications
 
 ## 📫 Let's Connect!
 
